@@ -8,4 +8,4 @@
 8. Automating Form Validation: Write code to automate form validation on a webpage. Enter invalid data into form fields, submit the form, and verify that appropriate validation messages are displayed.
 9. Testing Dropdown Sorting: Create a script to test the sorting functionality of a dropdown menu on a webpage. Select options from the dropdown in a specific order and verify that the selected options are sorted accordingly.
 10. Automating Cookie Handling: Demonstrate how to automate cookie handling using Selenium. Add, delete, and verify cookies on a webpage.
-![image](https://github.com/Bayaryg/Preplaced_Assignments/assets/158239987/3c38f613-308d-406c-b8b4-3b9d1a4354cf)
+
